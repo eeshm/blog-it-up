@@ -23,12 +23,12 @@ Currently, two official plugins are available:
 
 
 # **Npm Packages used:**
-* 1.redux-toolkit
-* 2.react-router-dom
-* 3.appwrite ->for backend services
-* 4.@tinymce/tinymce-react->for text editor
-* 5.html-parser
-* 6..DAISYUI 
+* redux-toolkit
+* react-router-dom
+* appwrite ->for backend services
+* @tinymce/tinymce-react->for text editor
+* html-parser
+* DAISYUI 
 
 
 
