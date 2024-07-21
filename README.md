@@ -13,22 +13,22 @@ Currently, two official plugins are available:
 
 * **Content Management**: All blog posts are stored in the Appwrite database, making it easy to organize and categorize content for better accessibility.
 
-* **Secure Authentication:**User data is securely managed with Appwrite's authentication system, ensuring user privacy and data integrity.
+* **Secure Authentication:** User data is securely managed with Appwrite's authentication system, ensuring user privacy and data integrity.
 
 * **Search Functionality:** A powerful search feature enables users to find specific blog posts quickly, enhancing the user experience.
 
-* **Image Uploads:**Users can include images in their blog posts and store them securely within the Appwrite database.
+* **Image Uploads:** Users can include images in their blog posts and store them securely within the Appwrite database.
 
 * **User Permissions:** Admins can assign different levels of access and permissions to users, ensuring control and security.
 
 
 # **Npm Packages used:**
-1.redux-toolkit
-2.react-router-dom
-3.appwrite ->for backend services
-4.@tinymce/tinymce-react->for text editor
-5.html-parser
-6..DAISYUI 
+* 1.redux-toolkit
+* 2.react-router-dom
+* 3.appwrite ->for backend services
+* 4.@tinymce/tinymce-react->for text editor
+* 5.html-parser
+* 6..DAISYUI 
 
 
 
