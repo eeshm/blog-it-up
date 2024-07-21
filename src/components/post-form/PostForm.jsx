@@ -108,7 +108,7 @@ export default function PostForm({ post }) {
                     </div>
                 )}
                 <Select
-                    options={["Active 🟢", "Inactive🔴"]}
+                    options={["active", "inactive"]}
                     label="Status"
                     className="mb-4"
                     {...register("status", { required: true })}
