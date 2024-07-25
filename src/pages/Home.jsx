@@ -46,11 +46,11 @@ function Home() {
       {authStatus ? (
       <button className="btn btn-primary" 
       onClick={()=>{navigate("/all-post")}}
-      >show all post </button>
+      >Show all posts </button>
       ):
       <button className="btn btn-primary" 
       onClick={()=>{navigate("/login")}}
-      >Login   </button>}
+      >Show all posts | Login </button>}
     </div>
   </div>
 </div>
