@@ -30,5 +30,3 @@ Currently, two official plugins are available:
 * html-parser
 * DAISYUI 
 
-# Project Link:
-[blogitup.vercel.app](blogitup.vercel.app)
