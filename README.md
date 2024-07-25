@@ -31,4 +31,4 @@ Currently, two official plugins are available:
 * DAISYUI 
 
 # Project Link:
-* blogitup-eesh-midhas-projects.vercel.app
+[blogitup.vercel.app](blogitup.vercel.app)
