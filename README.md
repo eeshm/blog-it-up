@@ -13,9 +13,7 @@ Currently, two official plugins are available:
 
 * **Content Management**: All blog posts are stored in the Appwrite database, making it easy to organize and categorize content for better accessibility.
 
-* **Secure Authentication:** User data is securely managed with Appwrite's authentication system, ensuring user privacy and data integrity.
-
-* **Search Functionality:** A powerful search feature enables users to find specific blog posts quickly, enhancing the user experience.
+* **Secure Authentication:** User data is securely managed with Appwrite's authentication system, ensuring user privacy and data integrity.git
 
 * **Image Uploads:** Users can include images in their blog posts and store them securely within the Appwrite database.
 
